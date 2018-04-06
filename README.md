@@ -5,8 +5,8 @@ Server MAN-PC
 - Cloud9 -> `pkg install nano`
 - Cloud9 -> `pkg install nodejs-current`
 - Cloud9 -> `pkg install nodejs-current-dev`
-- Cloud9 -> `git clone` https://github.com/Selfbotman/MAN-PC
-- Cloud9 -> `cd MAN-PC && npm install`
+- Cloud9 -> `git clone https://github.com/GieVh4/GyeJS
+- Cloud9 -> `cd GyeJS && npm install`
 - Cloud9 -> `cd src` npm start
 
 # alphat-third
